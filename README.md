@@ -1,7 +1,7 @@
 # Artworks Generation and Prediction Project
 
 
-In this project, I built two deep learning algorithms on a dataset of Artworks for the most famous artists, which are CNN and GAN. The goal is to generate new images of Artworks that look as realistic as possible. Also, predict the artwork belongs to which artist.
+In this project, we built two deep learning algorithms on a dataset of Artworks for the most famous artists, which are CNN and GAN. The goal is to generate new images of Artworks that look as realistic as possible. Also, predict the artwork belongs to which artist.
 
 We divided the project into two sections, **Artworks Generation** and **Artworks Prediction**.
 
