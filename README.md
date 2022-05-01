@@ -12,7 +12,7 @@ You can find and download the dataset from [here](https://www.kaggle.com/ikarus7
 
 
 **Note:**
-This dataset is more complex than the number datasets (like MNIST or SVHN) that we usually work with, and so, it needs deeper networks and training them for a longer time to get good results.
+This dataset is more complex than the number datasets (like MNIST or SVHN) that we usually work with, and so, it needs deeper networks and training for a longer time to get good results.
 
 
 
