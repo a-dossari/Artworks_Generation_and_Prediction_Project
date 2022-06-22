@@ -19,3 +19,4 @@ This dataset is more complex than the number datasets (like MNIST or SVHN) that 
 ### **Inspiration**
 * Generate new artworks.
 * Predict the artwork belongs to which artist.
+
